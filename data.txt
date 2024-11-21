@@ -1,0 +1,2 @@
+"pick up the yellow block\nunstack the yellow block from on top of the orange block\nput down the yellow block\npick up the orange block\nstack the orange block on top of the red block\n[PLAN END]",
+"(pick-up d)\n(unstack d c)\n(put-down d)\n(pick-up c)\n(stack c a)\n",
